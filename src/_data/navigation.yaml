@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: The club
     url: "#"
-  - text: Menu Two
+  - text: Races
     url: "#"
-  - text: Menu Three
+  - text: Sponsor
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
