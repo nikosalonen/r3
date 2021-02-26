@@ -1,6 +1,6 @@
 items:
   - text: Club
-    url: "#"
+    url: "/club"
   - text: Races
     url: "#"
   - text: Sponsor
